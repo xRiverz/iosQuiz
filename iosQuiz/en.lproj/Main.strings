@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Ans"; ObjectID = "3ST-B9-6Xg"; */
+"3ST-B9-6Xg.text" = "Ans";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "IWQ-oN-WcE"; */
+"IWQ-oN-WcE.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IWQ-oN-WcE"; */
+"IWQ-oN-WcE.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Answer"; ObjectID = "fwG-KR-CTm"; */
+"fwG-KR-CTm.configuration.title" = "Answer";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fwG-KR-CTm"; */
+"fwG-KR-CTm.normalTitle" = "Button";
+
+/* Class = "UILabel"; accessibilityHint = "Quiz"; ObjectID = "mW4-jv-rzI"; */
+"mW4-jv-rzI.accessibilityHint" = "Quiz";
+
+/* Class = "UILabel"; text = "Quiz"; ObjectID = "mW4-jv-rzI"; */
+"mW4-jv-rzI.text" = "Quiz";
